@@ -1,0 +1,15 @@
+F:\semestre 5.1\diseño\programas\ClaseEstructura\ClaseEstructura\bin\Debug\net7.0\ClaseEstructura.exe
+F:\semestre 5.1\diseño\programas\ClaseEstructura\ClaseEstructura\bin\Debug\net7.0\ClaseEstructura.deps.json
+F:\semestre 5.1\diseño\programas\ClaseEstructura\ClaseEstructura\bin\Debug\net7.0\ClaseEstructura.runtimeconfig.json
+F:\semestre 5.1\diseño\programas\ClaseEstructura\ClaseEstructura\bin\Debug\net7.0\ClaseEstructura.dll
+F:\semestre 5.1\diseño\programas\ClaseEstructura\ClaseEstructura\bin\Debug\net7.0\ClaseEstructura.pdb
+F:\semestre 5.1\diseño\programas\ClaseEstructura\ClaseEstructura\obj\Debug\net7.0\ClaseEstructura.csproj.AssemblyReference.cache
+F:\semestre 5.1\diseño\programas\ClaseEstructura\ClaseEstructura\obj\Debug\net7.0\ClaseEstructura.GeneratedMSBuildEditorConfig.editorconfig
+F:\semestre 5.1\diseño\programas\ClaseEstructura\ClaseEstructura\obj\Debug\net7.0\ClaseEstructura.AssemblyInfoInputs.cache
+F:\semestre 5.1\diseño\programas\ClaseEstructura\ClaseEstructura\obj\Debug\net7.0\ClaseEstructura.AssemblyInfo.cs
+F:\semestre 5.1\diseño\programas\ClaseEstructura\ClaseEstructura\obj\Debug\net7.0\ClaseEstructura.csproj.CoreCompileInputs.cache
+F:\semestre 5.1\diseño\programas\ClaseEstructura\ClaseEstructura\obj\Debug\net7.0\ClaseEstructura.dll
+F:\semestre 5.1\diseño\programas\ClaseEstructura\ClaseEstructura\obj\Debug\net7.0\refint\ClaseEstructura.dll
+F:\semestre 5.1\diseño\programas\ClaseEstructura\ClaseEstructura\obj\Debug\net7.0\ClaseEstructura.pdb
+F:\semestre 5.1\diseño\programas\ClaseEstructura\ClaseEstructura\obj\Debug\net7.0\ClaseEstructura.genruntimeconfig.cache
+F:\semestre 5.1\diseño\programas\ClaseEstructura\ClaseEstructura\obj\Debug\net7.0\ref\ClaseEstructura.dll
